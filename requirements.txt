@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+h5py
+streamlit
+tensorflow-cpu
